@@ -1,8 +1,4 @@
-import Cabecalho from "@/components/Cabecalho";
-import Conteudo from "@/components/Conteudo";
-import Menu from "@/components/Menu";
 import Pagina from "@/components/Pagina";
-import Rodape from "@/components/Rodape";
 
 export default function PaginaFundamentos() {
     return (

@@ -1,8 +1,3 @@
-import Cabecalho from '@/components/Cabecalho'
-import '../app/globals.css'
-import Rodape from '@/components/Rodape'
-import Conteudo from '@/components/Conteudo'
-import Menu from '@/components/Menu'
 import Pagina from '@/components/Pagina'
 
 export default function Page() {
