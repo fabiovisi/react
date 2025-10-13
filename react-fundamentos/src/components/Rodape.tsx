@@ -1,6 +1,6 @@
 interface RodapeProps {
     textoEsquerda: string;
-    textoDireta: string;
+    textoDireita: string;
 }
 
 export default function Rodape(props: RodapeProps) {
@@ -12,7 +12,7 @@ export default function Rodape(props: RodapeProps) {
             text-zinc-500
            `}>
             <span>{props.textoEsquerda}</span>
-            <span>{props.textoDireta}</span>
+            <span>{props.textoDireita}</span>
         </div>
     )
 }
