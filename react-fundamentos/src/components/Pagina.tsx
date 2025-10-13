@@ -11,9 +11,7 @@ interface PaginaProps {
 
 export default function Pagina(props: PaginaProps) {
      return (
-            <div className={`
-                flex h-screen
-            `}>
+            <div className="flex">
                 <AreaLateral />
 
                 <div className='flex flex-col flex-1'>
