@@ -1,7 +1,5 @@
-import React from 'react';
-
 interface CaixaProps{
-    children: React.ReactNode
+    children: any
     className?: string
 }
 
