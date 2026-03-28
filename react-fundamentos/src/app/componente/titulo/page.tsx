@@ -1,8 +1,0 @@
-export default function Page() {
-  return (
-    <div>
-      <h1 className="text-red-500 text-6xl">Título</h1>
-      <h2 className="text-blue-500 text-4xl">Subtítulo</h2>
-    </div>
-  );
-}
